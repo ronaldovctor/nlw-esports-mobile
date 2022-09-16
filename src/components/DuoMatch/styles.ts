@@ -32,7 +32,7 @@ export const styles = StyleSheet.create({
 		fontFamily: THEME.FONT_FAMILY.REGULAR,
 	},
 	discordButton: {
-		width: 321,
+		width: 230,
 		height: 48,
 		backgroundColor: THEME.COLORS.BACKGROUND_900,
 		alignItems: 'center',
